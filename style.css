@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    background-color: rgb(247, 0, 255);
+}
+
+.navegacao {
+    background-color: rgb(34, 202, 202);
+}
